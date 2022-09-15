@@ -23,7 +23,8 @@ Photoshop
 'Stop gninnipS My sdroW!' from codewars.com  
 Write a function that takes in a string of one or more words, and returns the same string, but with all five or more letter words reversed (Just like the name of this Kata). Strings passed in will consist of only letters and spaces. Spaces will be included only when more than one word is present.
 
-```function spinWords(string){
+```
+function spinWords(string){
   if(string == 0) {
     return '';
   };
@@ -63,7 +64,8 @@ Write a function that takes in a string of one or more words, and returns the sa
       };
     };
   return string[0][0];
-};```
+};
+```
 ## Completed Projects
 CV for rsschool course https://github.com/Wuattt/rsschool-cv/tree/main
 
