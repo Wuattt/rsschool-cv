@@ -5,7 +5,7 @@ Skype: sergey3948576
 Email: asadar34@gmail.com
 
 ## About me
-I'm a student at IAPM on 2nd course, studying on Software Engineering. My goal is to finish the University and have working experience by graduation, so i could progress in learning Front-end while gaining benefit from my knowledge as soon as possible.
+I'm a student at IAPM on 4nd course, studying on Software Engineering. My goal is to finish the University and have working experience by graduation, so i could progress in learning Front-end while gaining benefit from my knowledge as soon as possible.
 
 My last job was as content manager at Ensof Group company. There I was downloading lessons for online school for 1 year.
 
